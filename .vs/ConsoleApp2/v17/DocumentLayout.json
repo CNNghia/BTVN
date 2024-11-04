@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\ConsoleApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDBC55F4-CD92-42A8-8939-E46CA1EC4814}|ConsoleApp2\\ConsoleApp2.csproj|d:\\c#\\consoleapp2\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDBC55F4-CD92-42A8-8939-E46CA1EC4814}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDBC55F4-CD92-42A8-8939-E46CA1EC4814}|ConsoleApp2\\ConsoleApp2.csproj|d:\\c#\\consoleapp2\\consoleapp2\\tienthuongngoaigio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDBC55F4-CD92-42A8-8939-E46CA1EC4814}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\tienthuongngoaigio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDBC55F4-CD92-42A8-8939-E46CA1EC4814}|ConsoleApp2\\ConsoleApp2.csproj|d:\\c#\\consoleapp2\\consoleapp2\\tienthuongngoaitinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDBC55F4-CD92-42A8-8939-E46CA1EC4814}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\tienthuongngoaitinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDBC55F4-CD92-42A8-8939-E46CA1EC4814}|ConsoleApp2\\ConsoleApp2.csproj|d:\\c#\\consoleapp2\\consoleapp2\\nhanvienfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDBC55F4-CD92-42A8-8939-E46CA1EC4814}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\nhanvienfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDBC55F4-CD92-42A8-8939-E46CA1EC4814}|ConsoleApp2\\ConsoleApp2.csproj|d:\\c#\\consoleapp2\\consoleapp2\\laptrinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDBC55F4-CD92-42A8-8939-E46CA1EC4814}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\laptrinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDBC55F4-CD92-42A8-8939-E46CA1EC4814}|ConsoleApp2\\ConsoleApp2.csproj|d:\\c#\\consoleapp2\\consoleapp2\\itienthuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDBC55F4-CD92-42A8-8939-E46CA1EC4814}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\itienthuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDBC55F4-CD92-42A8-8939-E46CA1EC4814}|ConsoleApp2\\ConsoleApp2.csproj|d:\\c#\\consoleapp2\\consoleapp2\\inhanvienfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDBC55F4-CD92-42A8-8939-E46CA1EC4814}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\inhanvienfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDBC55F4-CD92-42A8-8939-E46CA1EC4814}|ConsoleApp2\\ConsoleApp2.csproj|d:\\c#\\consoleapp2\\consoleapp2\\chuyenvienphantich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDBC55F4-CD92-42A8-8939-E46CA1EC4814}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\chuyenvienphantich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TienthuongNgoaitinh.cs",
+              "DocumentMoniker": "D:\\C#\\ConsoleApp2\\ConsoleApp2\\TienthuongNgoaitinh.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\TienthuongNgoaitinh.cs",
+              "ToolTip": "D:\\C#\\ConsoleApp2\\ConsoleApp2\\TienthuongNgoaitinh.cs",
+              "RelativeToolTip": "ConsoleApp2\\TienthuongNgoaitinh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T14:55:28.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TienthuongNgoaigio.cs",
+              "DocumentMoniker": "D:\\C#\\ConsoleApp2\\ConsoleApp2\\TienthuongNgoaigio.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\TienthuongNgoaigio.cs",
+              "ToolTip": "D:\\C#\\ConsoleApp2\\ConsoleApp2\\TienthuongNgoaigio.cs",
+              "RelativeToolTip": "ConsoleApp2\\TienthuongNgoaigio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T14:55:27.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NhanvienFactory.cs",
+              "DocumentMoniker": "D:\\C#\\ConsoleApp2\\ConsoleApp2\\NhanvienFactory.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\NhanvienFactory.cs",
+              "ToolTip": "D:\\C#\\ConsoleApp2\\ConsoleApp2\\NhanvienFactory.cs",
+              "RelativeToolTip": "ConsoleApp2\\NhanvienFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T14:55:26.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Laptrinhvien.cs",
+              "DocumentMoniker": "D:\\C#\\ConsoleApp2\\ConsoleApp2\\Laptrinhvien.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Laptrinhvien.cs",
+              "ToolTip": "D:\\C#\\ConsoleApp2\\ConsoleApp2\\Laptrinhvien.cs",
+              "RelativeToolTip": "ConsoleApp2\\Laptrinhvien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T14:55:25.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITienthuong.cs",
+              "DocumentMoniker": "D:\\C#\\ConsoleApp2\\ConsoleApp2\\ITienthuong.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\ITienthuong.cs",
+              "ToolTip": "D:\\C#\\ConsoleApp2\\ConsoleApp2\\ITienthuong.cs",
+              "RelativeToolTip": "ConsoleApp2\\ITienthuong.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T14:55:25.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
+              "ToolTip": "D:\\C#\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "ConsoleApp2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T14:55:01.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "INhanvienFactory.cs",
+              "DocumentMoniker": "D:\\C#\\ConsoleApp2\\ConsoleApp2\\INhanvienFactory.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\INhanvienFactory.cs",
+              "ToolTip": "D:\\C#\\ConsoleApp2\\ConsoleApp2\\INhanvienFactory.cs",
+              "RelativeToolTip": "ConsoleApp2\\INhanvienFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T14:55:24.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChuyenvienPhantich.cs",
+              "DocumentMoniker": "D:\\C#\\ConsoleApp2\\ConsoleApp2\\ChuyenvienPhantich.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\ChuyenvienPhantich.cs",
+              "ToolTip": "D:\\C#\\ConsoleApp2\\ConsoleApp2\\ChuyenvienPhantich.cs",
+              "RelativeToolTip": "ConsoleApp2\\ChuyenvienPhantich.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T14:55:23.57Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
